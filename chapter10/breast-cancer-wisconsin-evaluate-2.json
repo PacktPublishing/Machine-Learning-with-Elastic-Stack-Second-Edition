@@ -1,0 +1,15 @@
+POST _ml/data_frame/_evaluate
+{
+  "index": "breast-cancer-wisconsin-outlier-fraction", 
+  "evaluation": {
+    "outlier_detection": {
+      "actual_field": "Outlier", 
+      "predicted_probability_field": "ml.outlier_score",
+      "metrics" : {
+        "confusion_matrix" : {"at": [0.25, 0.5, 0.75]}, 
+        "precision" : {"at": [0.25, 0.5, 0.75]}, 
+        "recall" : {"at": [0.25, 0.5, 0.75]} 
+      }
+    }
+  }
+}
