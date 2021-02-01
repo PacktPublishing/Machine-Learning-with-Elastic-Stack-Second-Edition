@@ -1,0 +1,7 @@
+// boolean operator instanceof tests if a variable is an instance of a type
+
+// the variable is_integer evaluates to true 
+
+int int_number = 5;
+boolean is_integer = int_number instanceof int;
+is_integer; 
