@@ -1,0 +1,4 @@
+a = 1;
+b = 5;
+my_string = "hello world";
+my_double_array = new double[] {1.0, 2.0, 2.5};

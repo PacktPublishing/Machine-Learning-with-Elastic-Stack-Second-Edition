@@ -1,0 +1,9 @@
+int a;
+int b;
+
+a = 1;
+b = 5;
+
+// Addition 
+int addition;
+addition = a+b;
