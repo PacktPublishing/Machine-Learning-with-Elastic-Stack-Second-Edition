@@ -7,3 +7,5 @@ if (a < 6){
 else {
     sum = a-5;
     }
+
+sum;
