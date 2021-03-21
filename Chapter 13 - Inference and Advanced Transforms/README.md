@@ -30,3 +30,13 @@ If you chose your own name for the environment in step 1, substitute that here i
 ```
 pip install -r requirements.txt
 ```
+
+4. Once the requirements have been installed, you are ready to run the script.
+Run the command below to see all of the commandline arguments that the script accepts.
+
+```
+python export_model.py --help
+```
+
+5. Make note of the arguments you need to change, for example, to point the script to work with your particular instance of Elasticsearch.
+Then run the script above again passing in the suitable arguments. 
