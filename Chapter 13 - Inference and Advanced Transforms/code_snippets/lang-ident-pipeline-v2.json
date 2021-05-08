@@ -1,0 +1,16 @@
+PUT _ingest/pipeline/language-identification-pipeline-v2
+{
+  "description": "Pipeline for classifying language in social media posts",
+  "processors": [
+{
+  "inference": {
+    "model_id": " lang_ident_model_1",
+    "target_field": "text_language_prediction",
+    "field_map": {
+      "post": "text"
+    },
+    "inference_config": { "classification": {"num_top_classes": 3} }
+  }
+}
+  ]
+}
