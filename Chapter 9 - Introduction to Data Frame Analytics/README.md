@@ -21,3 +21,11 @@ pip install -r requirements.txt
 
 Now you should be ready to run the ingest script `ingest.py` that is included in this chapter.
 
+5. To view the commandline arguments you need to supply to the script, run 
+
+```
+python ingest.py --help
+```
+
+6. The script requires your Elasticsearch username and password to be stored as environment variables ES_USERNAME and ES_PASSWORD
+
