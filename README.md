@@ -50,7 +50,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Learning Elastic Stack 7.0 [[Packt]](https://www.packtpub.com/product/learning-elastic-stack-7-0-second-edition/9781789954395) [[Amazon]](https://www.amazon.com/dp/1789954398)
 
-## Get to Know the Author
+## Get to Know the Authors
 
 **Rich Collier** 
 is a solutions architect at Elastic. Joining the Elastic team from the Prelert acquisition, Rich has over 20 years' experience as a solutions architect and pre-sales systems engineer for software, hardware, and service-based solutions. Rich's technical specialties include big data analytics, machine learning, anomaly detection, threat detection, security operations, application performance management, web applications, and contact center technologies. 
