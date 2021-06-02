@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/machine-learning-with-the-elastic-stack-second-edition/9781801070034?utm_source=github&utm_medium=repository&utm_campaign=9781801070034"><img src="https://static.packt-cdn.com/products/9781801070034/cover/smaller" alt="Machine Learning with the Elastic Stack - Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Machine Learning with the Elastic Stack, Second Edition](https://www.packtpub.com/product/machine-learning-with-the-elastic-stack-second-edition/9781801070034?utm_source=github&utm_medium=repository&utm_campaign=9781801070034), published by Packt.
+This is the code repository for [Machine Learning with the Elastic Stack - Second Edition](https://www.packtpub.com/product/machine-learning-with-the-elastic-stack-second-edition/9781801070034?utm_source=github&utm_medium=repository&utm_campaign=9781801070034), published by Packt.
 
 **Gain valuable insights from your data with Elastic Stack's machine learning features**
 
