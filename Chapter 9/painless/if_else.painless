@@ -1,0 +1,11 @@
+int a = 5;
+int sum;
+
+if (a < 6){
+   sum = a+5;
+    }
+else {
+    sum = a-5;
+    }
+
+sum;

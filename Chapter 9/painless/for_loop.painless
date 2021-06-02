@@ -1,0 +1,19 @@
+// initialize the string and the counter variable
+
+String sample_string = "a beautiful day";
+int counter = 0;
+
+for (int i=0;i<sample_string.length();i++){
+
+ // get a letter from the string using the substring method
+ String letter = sample_string.substring(i, i+1);
+
+ //use an if-statement to check if the current letter being processed is an a
+ if (letter=="a") {
+ // is yes, increment the counter
+ counter++
+   }
+ }
+  
+
+counter;

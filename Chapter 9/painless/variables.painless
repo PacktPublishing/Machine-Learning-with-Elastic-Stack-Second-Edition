@@ -1,0 +1,4 @@
+int a;
+int b;
+String my_string;
+float[] my_float_array;

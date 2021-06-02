@@ -1,4 +1,0 @@
-// boolean operator for testing for inequality
-
-boolean not_equal = 5!=6;
-not_equal;

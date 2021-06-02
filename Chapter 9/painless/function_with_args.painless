@@ -1,0 +1,17 @@
+int letterCounter(String sample_string, String count_letter){
+    // initialize the string and the counter variable
+    int counter = 0;
+
+    for (int i=0;i<sample_string.length();i++){
+
+    // get a letter from the string using the substring method
+    String letter = sample_string.substring(i, i+1);
+
+    //use an if-statement to check if the current letter being processed is an a
+    if (letter==count_letter) {
+    // is yes, increment the counter
+    counter++
+    }
+    }
+    return counter;
+}

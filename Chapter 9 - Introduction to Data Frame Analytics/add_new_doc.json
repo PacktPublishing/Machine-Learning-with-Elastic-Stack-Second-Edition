@@ -1,9 +1,0 @@
-POST social-media-feed/_doc
-{
-    "username": "Carl",
-    "statistics": {
-      "likes": 320,
-      "shares": 8000
-    },
-    "timestamp": "2021-01-18T23:19:06"
-  }

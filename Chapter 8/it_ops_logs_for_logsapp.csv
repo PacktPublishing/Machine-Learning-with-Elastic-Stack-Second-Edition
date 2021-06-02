@@ -1,0 +1,326 @@
+@timestamp,event.dataset,message,dbhost.name,physicalhost.name,vmhost.name
+2021-02-01T21:28:00,it_ops_logs,Actual Transaction Already Voided / Reversed,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-01T23:55:00,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T07:36:00,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T07:36:00,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T07:36:00,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T08:07:00,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T10:52:00,it_ops_logs,Transaction Match In DB / Duplicate Transaction,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T11:54:00,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T14:34:00,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T18:23:00,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T19:26:00,it_ops_logs,Actual Transaction Already Voided / Reversed,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-02T19:31:00,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T12:37:42,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T13:50:19,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T14:10:04,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T16:19:41,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T16:19:41,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T16:19:42,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T16:19:59,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T17:06:27,it_ops_logs,DB Not Updated [Master] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T17:06:27,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T18:38:52,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T18:38:52,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T18:38:52,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T18:38:55,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T21:02:32,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:49:55,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:49:55,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:49:55,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:50:29,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:52:30,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:52:30,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:52:31,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-03T23:52:49,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T03:46:14,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T03:46:14,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T03:46:14,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T04:11:16,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T10:41:28,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T16:24:06,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T16:28:59,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-04T23:17:43,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T09:19:08,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T09:19:08,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T09:19:09,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T09:57:40,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T16:56:07,it_ops_logs,Actual Transaction Already Voided / Reversed,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T17:36:38,it_ops_logs,Transaction Match In DB / Duplicate Transaction,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-05T19:22:10,it_ops_logs,Actual Transaction Already Voided / Reversed,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-06T10:46:49,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-06T16:32:57,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T10:56:01,it_ops_logs,Transaction Match In DB / Duplicate Transaction,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T11:42:50,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T14:38:43,it_ops_logs,Transaction Match In DB / Duplicate Transaction,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:15:23,it_ops_logs,DB Not Updated [Master] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:15:23,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:15:28,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:15:28,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:15:59,it_ops_logs,DBMS ERROR : db=10.16.1.63!svc_prod#uid=dbadmin1;pwd=##### Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:00,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:43,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:43,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:43,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:59,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:59,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:59,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:16:59,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:16,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:16,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:16,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:16,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:32,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:32,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:32,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:32,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:49,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:49,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:49,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:17:49,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:05,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:05,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:05,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:05,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:21,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:21,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:21,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:21,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:38,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:38,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:38,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:38,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:54,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:54,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:54,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:18:54,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:11,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:11,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:11,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:11,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:27,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:27,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:27,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:27,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:44,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:44,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:44,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:19:44,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:00,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:00,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:00,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:00,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:17,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:17,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:17,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:17,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:33,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:33,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:33,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:33,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:50,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:50,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:50,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:20:50,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:06,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:06,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:06,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:06,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:23,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:23,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:23,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:23,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:40,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:40,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:40,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:40,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:56,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:56,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:56,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:21:56,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:12,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:12,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:12,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:12,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:29,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:29,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:29,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:29,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:45,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:45,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:45,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:22:45,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:02,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:02,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:02,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:02,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:18,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:18,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:18,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:18,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:34,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:34,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:34,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:34,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:50,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:50,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:50,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:23:50,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:07,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:07,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:07,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:07,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:23,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:23,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:23,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:23,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:40,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:40,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:40,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:40,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:56,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:56,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:56,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:24:56,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:12,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:12,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:12,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:12,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:29,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:29,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:29,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:29,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:45,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:45,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:45,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:25:45,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:02,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:02,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:02,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:02,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:18,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:18,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:18,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:18,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:35,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:35,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:35,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:35,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:51,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:51,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:51,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:26:51,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:07,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:07,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:07,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:07,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:24,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:24,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:24,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:24,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:40,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:40,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:40,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:40,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:56,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:56,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:56,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:27:56,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:13,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:13,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:13,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:13,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:29,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:29,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:29,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:29,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:46,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:46,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:46,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:28:46,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:02,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:02,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:02,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:02,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:18,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:18,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:18,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:18,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:35,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:35,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:35,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:35,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:52,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:52,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:52,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:29:52,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:08,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:08,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:08,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:08,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:25,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:25,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:25,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:25,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:41,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:41,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:41,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:41,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:57,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:57,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:57,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:30:57,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:14,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:14,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:14,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:14,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:30,it_ops_logs,DBMS ERROR : db=svc_prod Err=-17 [Microsoft][ODBC SQL Server Driver][TCP/IP Sockets]SQL Server does not exist or access denied.,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:30,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:30,it_ops_logs,Fail To Connect Database   ReActivate Application / Check Connection String ,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:31:30,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=127.0.0.1;network=dbmssocn;address=127.0.0.1 1433;DATABASE=svc_prod;;Trusted_Connection=Yes;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:32:48,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:32:48,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:32:48,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T15:33:00,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T21:28:09,it_ops_logs,Actual Transaction Already Voided / Reversed,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-08T23:55:19,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T07:36:26,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T07:36:26,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T07:36:27,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T08:07:46,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T10:52:27,it_ops_logs,Transaction Match In DB / Duplicate Transaction,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T11:54:24,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T14:34:56,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T18:23:29,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T19:26:31,it_ops_logs,Actual Transaction Already Voided / Reversed,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-09T19:31:22,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T12:37:42,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T13:50:19,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T14:10:04,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T16:19:41,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T16:19:41,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T16:19:42,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T16:19:59,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T17:06:27,it_ops_logs,DB Not Updated [Master] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T17:06:27,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T18:38:52,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T18:38:52,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T18:38:52,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T18:38:55,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T21:02:32,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:49:55,it_ops_logs,Using: sssvcdbj1.acme.com!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:49:55,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=sssvcdbj1.acme.com;network=dbmssocn;address=sssvcdbj1.acme.com 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:49:55,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:50:29,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:52:30,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:52:30,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:52:31,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-10T23:52:49,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T03:46:14,it_ops_logs,Using: 10.16.1.63!svc_prod#uid=dbadmin1;pwd=#####,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T03:46:14,it_ops_logs,Opening Database = DRIVER={SQL Server};SERVER=10.16.1.63;network=dbmssocn;address=10.16.1.63 1433;DATABASE=svc_prod;uid=dbadmin1;pwd=#####;AnsiNPW=No,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T03:46:14,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T04:11:16,it_ops_logs,012 Head Office Link Active 127.0.0.1,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T10:41:28,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T16:24:06,it_ops_logs,REC Not INSERTED [DB TRAN] Table,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T16:28:59,it_ops_logs,Actual Transaction Not Found In DB To VOID,dbserver.acme.com,esxserver1.acme.com,app1.acme.com
+2021-02-11T23:17:43,it_ops_logs,Card # Not Found Into DB,dbserver.acme.com,esxserver1.acme.com,app1.acme.com

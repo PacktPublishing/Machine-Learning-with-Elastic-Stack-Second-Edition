@@ -1,0 +1,3 @@
+String phrase = "a beautiful day";
+String letter_of_interest = "b";
+letterCounter(phrase, letter_of_interest);

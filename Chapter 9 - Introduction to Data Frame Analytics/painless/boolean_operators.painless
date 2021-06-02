@@ -1,4 +1,0 @@
-boolean less_than = 4<5;
-boolean greater_than = 4>5;
-boolean less_than_or_equal = 4 <=5;
-boolean greater_than_or_equal = 4 >= 5;

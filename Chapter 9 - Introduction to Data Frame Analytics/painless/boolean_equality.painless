@@ -1,4 +1,0 @@
-// boolean operator for testing for equality
-
-boolean two_equal_strings = "hello" == "hello";
-two_equal_strings;
